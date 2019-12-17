@@ -1,7 +1,7 @@
 # mis-datos
 MIS DATOS
 
-NOMBRE: santos joel aguilera martinez
+NOMBRE: SANTOS JOEL AGUILERA MARTINEZ
 
 celular: 0962684125
 
