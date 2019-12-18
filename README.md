@@ -18,6 +18,7 @@ La ing. Software es aplicaci0on practica del conocimiento científico para prove
 Origen de la ing. Software 
 
 Su origen se debió a que el entorno de desarrollo de sistema de software adolecia de:
+
 Retrasos considerables en la planificación; poca productividad; elevadas cargas de mantenimiento; dependencia de los realizadores entre otros.
 
 Esto se ha denominado habitualmente “crisis del software”, que se genero en las siguientes fases:
