@@ -39,6 +39,7 @@ El termino “evolución” del software se utiliza desde los setenta para deter
 La crisis del software
 
 La crisis en la industria del software permanece durante muchos años, lo cual parece una contradicción para el término. Lo que si se podría decir es que hay problema crónico en el desarrollo de software.
+
 Actualmente esta surgiendo una gran expectativa ante la evolución de la ing. De software, al ir apareciendo nuevos métodos y herramientas formales que van a permitir en el futuro un planteamiento de ingeniería en el proceso de elaboración de software.
 
 El software en la actualidad 
